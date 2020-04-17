@@ -8,18 +8,22 @@
   </url>
   
   <url>
-    <loc>https://divyanshu.dev/posts/</loc>
+    <loc>https://divyanshu.dev/</loc>
     <lastmod>2020-04-17T13:49:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://divyanshu.dev/</loc>
+    <loc>https://divyanshu.dev/posts/</loc>
     <lastmod>2020-04-17T13:49:19-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://divyanshu.dev/posts/my-first-post/</loc>
     <lastmod>2020-04-17T10:22:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://divyanshu.dev/about/</loc>
   </url>
   
   <url>
