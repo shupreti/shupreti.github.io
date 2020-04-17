@@ -1,1 +1,0 @@
-# shupreti.github.io
